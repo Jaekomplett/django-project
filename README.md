@@ -1,5 +1,1 @@
-# django-project
-# django-project
-# django-project
-# django-project
-# django-project
+#Django-project
